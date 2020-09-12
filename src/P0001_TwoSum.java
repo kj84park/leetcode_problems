@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class TwoSum {
+public class P0001_TwoSum {
 
     public static void main(String[] args) throws Exception {
         int[] array = {2,7,11,15};
