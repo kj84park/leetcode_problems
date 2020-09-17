@@ -1,4 +1,4 @@
-public class P1014_LongestCommonPrefix {
+public class P0014_LongestCommonPrefix {
 
     public static void main(String[] args) throws Exception {
 
