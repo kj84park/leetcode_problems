@@ -1,3 +1,5 @@
+package medium;
+
 import java.util.Arrays;
 
 public class P0016_3SumClosest {

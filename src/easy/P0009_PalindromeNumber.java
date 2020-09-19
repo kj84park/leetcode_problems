@@ -1,3 +1,5 @@
+package easy;
+
 public class P0009_PalindromeNumber {
     public static void main(String[] args) throws Exception {
 

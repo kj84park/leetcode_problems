@@ -1,4 +1,6 @@
-public class P0021MergeTwoSortedLists {
+package easy;
+
+public class P0021_MergeTwoSortedLists {
     public static void main(String[] args) throws Exception {
         ListNode l1 = new ListNode(1);
         ListNode l12 = new ListNode(2);

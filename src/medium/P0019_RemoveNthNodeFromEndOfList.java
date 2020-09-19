@@ -1,3 +1,5 @@
+package medium;
+
 public class P0019_RemoveNthNodeFromEndOfList {
     public static void main(String[] args) throws Exception {
         ListNode node = new ListNode(1);

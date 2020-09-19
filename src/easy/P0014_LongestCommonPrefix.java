@@ -1,3 +1,5 @@
+package easy;
+
 public class P0014_LongestCommonPrefix {
 
     public static void main(String[] args) throws Exception {

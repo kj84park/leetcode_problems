@@ -1,3 +1,5 @@
+package easy;
+
 public class P0007_ReverseInteger {
     public static void main(String[] args) throws Exception {
 

@@ -1,3 +1,5 @@
+package medium;
+
 public class P0011_ContainerWithMostWater {
     public static void main(String[] args) throws Exception {
 

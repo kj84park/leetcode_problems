@@ -1,3 +1,5 @@
+package medium;
+
 public class P0003_LongestSubstringWithoutRepeatingCharacters {
     public static void main(String[] args) throws Exception {
 
