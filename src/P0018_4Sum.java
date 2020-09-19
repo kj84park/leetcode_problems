@@ -34,10 +34,10 @@ public class P0018_4Sum {
                         while((left < right) && nums[left] == nums[left-1]) left++;
                     }
                 }
-                while (j+1 < nums.length && nums[j+1] == nums[j])                          //remove duplicates
+                while (j+1 < nums.length && nums[j+1] == nums[j])
                     j++;
             }
-            while (i+1 < nums.length && nums[i+1] == nums[i])                          //remove duplicates
+            while (i+1 < nums.length && nums[i+1] == nums[i])
                 i++;
         }
 
