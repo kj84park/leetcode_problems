@@ -1,7 +1,5 @@
 package easy;
 
-import java.util.Arrays;
-
 public class P0027_RemoveElement {
     public static void main(String[] args) throws Exception {
         System.out.println(removeElement(new int[]{3,2,2,3},3));
